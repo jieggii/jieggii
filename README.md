@@ -3,7 +3,7 @@
 
 ## Stack
 Currently I am ok with Python, HTML and JS, worther with Java and NodeJS. Also I am learning Rust.
-Interested in machine learning and data sciense.
+Interested in machine learning and data science.
 
 ## Contacts
 * Telegram - [@jieggii](https://t.me/jieggii)
