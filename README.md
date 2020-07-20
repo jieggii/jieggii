@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jieggii&show_icons=true)
 
 ## Stack
-I'm keen on **GNU/Linux**, currently ok with **Python**, **HTML** and **CSS**; worse with **Java** and **JS**. Also I am learning **Rust** and fell in love with it's **Cargo**.
+I'm keen on **GNU/Linux**, currently ok with **Python**, **HTML** and **CSS**; worse with **Java** and **JS**. I am also learning **Rust** and fell in love with it's **Cargo**.
 Interested in low-level stuff, hardware, machine learning and data science.
 
 ## Contacts
