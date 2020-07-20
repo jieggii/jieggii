@@ -4,8 +4,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jieggii&show_icons=true)
 
 ## Stack
-Currently I am ok with Python, HTML, CSS and JS, worse with Java, C, CPP and NodeJS. Also I am learning Rust.
-Interested in machine learning and data science.
+I'm keen on **GNU/Linux**, currently ok with **Python**, **HTML** and **CSS**; worse with **Java** and **JS**. Also I am learning **Rust** and fell in love with it's **Cargo**.
+Interested in low-level stuff, hardware, machine learning and data science.
 
 ## Contacts
 * Telegram - [@jieggii](https://t.me/jieggii)
