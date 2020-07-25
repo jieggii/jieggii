@@ -1,4 +1,4 @@
-# Hewwo! [![HitCount](http://hits.dwyl.com/jieggii/jieggii.svg)](http://hits.dwyl.com/jieggii/jieggii)
+# Hewwo!
 ![Cutie](https://github.com/jieggii/jieggii/blob/master/1.gif)
 
 ## Stack
