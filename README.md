@@ -2,8 +2,8 @@
 ![Cutie](https://github.com/jieggii/jieggii/blob/master/1.gif)
 
 ## Stack
-I'm keen on **GNU/Linux**, currently ok with **Python**, **HTML** and **CSS**; worse with **Java** and **JS**. I am also learning **Rust** and fell in love with it's **Cargo**.
-Interested in low-level stuff, hardware, machine learning and data science.
+I'm keen on **GNU/Linux**, currently ok with **Python**, worse with **Java** and **JS**. I'm also learning **Rust**.
+Interested in software development, hardware, machine learning and data science.
 
 ## Contacts
 * Telegram - [@jieggii](https://t.me/jieggii)
