@@ -1,5 +1,4 @@
 # Hewwo!
-![GIF](https://i.imgur.com/hiI3qKs.gif)
 
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-%233572a5) ![JavaScript](https://img.shields.io/badge/-JavaScript-f1e05a) ![Java](https://img.shields.io/badge/-Java-b07219) ![Rust](https://img.shields.io/badge/-Rust-dea584) ![HTML](https://img.shields.io/badge/-HTML-e34c26) ![CSS](https://img.shields.io/badge/-CSS-563d7c) ![GNU/Linux](https://img.shields.io/badge/-GNU%2FLinux-%231793D1)
