@@ -12,6 +12,5 @@ Interested in software development, hardware, machine learning and data science.
 * Email - [jieggii.contact@gmail.com](mailto:jieggii.contact@gmail.com)
 
 ## Some stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jieggii&show_icons=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii)
 
