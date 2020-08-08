@@ -11,6 +11,3 @@ Interested in software development, hardware, machine learning and data science.
 * Telegram - [@jieggii](https://t.me/jieggii)
 * Email - [jieggii.contact@gmail.com](mailto:jieggii.contact@gmail.com)
 
-## Some stats
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii)
-
