@@ -1,5 +1,4 @@
 # Hello, stranger
-![Cutie](https://github.com/jieggii/jieggii/blob/master/cutie.gif)
 ![senko](https://github.com/jieggii/jieggii/blob/master/senko.gif)
 
 ## Stack
