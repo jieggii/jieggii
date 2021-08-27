@@ -10,5 +10,5 @@ I've been into programming for around 4 years already but
 I see that I'm only in the beggining of my way to this charming world
 
 ## Contacts
+* Email (preferred way)- [jieggii.contact@gmail.com](mailto:jieggii.contact@gmail.com)
 * Telegram - [@jieggii](https://t.me/jieggii)
-* Email - [jieggii.contact@gmail.com](mailto:jieggii.contact@gmail.com)
