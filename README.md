@@ -1,4 +1,4 @@
-# Hi stranger :)
+# Hi :)
 
 ## A little info about me
 I really enjoy coding, mainly do it for my very few pet-projects.
