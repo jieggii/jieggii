@@ -1,4 +1,4 @@
-## Some information about me
+## Interview
 I really enjoy coding, mainly do it for my very few pet-projects.
 I'm also keen on GNU/Linux distros and tiling window managers.
 Always like to learn something new.
