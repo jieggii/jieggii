@@ -8,7 +8,7 @@ I've been into programming for around 4 years already but
 I see that I'm only in the beginning of my way to this charming world.
 
 ## Contacts
-* **Email** (preferred way) — [jieggii.contact@gmail.com](mailto:jieggii.contact@gmail.com)
+* **Email** (preferred way) — [jieggii@pm.me](mailto:jieggii@pm.me)
 * **Telegram** — [@jieggii](https://t.me/jieggii)
 
 ## Profile statistics
