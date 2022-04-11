@@ -1,10 +1,12 @@
 ## Interview
-I really enjoy coding, mainly do it for my very few pet-projects.
-I'm also keen on GNU/Linux distros and tiling window managers.
-Always like to learn something new.
+I really enjoy coding, mainly do it for my pet and study projects, work hard everyday to expand my knowlege.
+I'm also keen on GNU/Linux distros, tiling window managers, various CLI programs and other nerdy stuff.
+Always happy to try and learn something new.
+
+I speak russian (native), english (~B2) and finnish (~A2).
 
 ## Experience
-I've been into programming for around 4 years already but 
+I've been into programming/IT for around 5 years already but 
 I see that I'm only in the beginning of my way to this charming world.
 
 ## Contacts
