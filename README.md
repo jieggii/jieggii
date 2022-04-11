@@ -6,7 +6,7 @@ Always happy to try and learn something new.
 I speak russian (native), english (~B2) and finnish (~A2).
 
 ## Experience
-I've been into programming/IT for around 5 years already but 
+I've been into programming/IT for around 4 years already but 
 I see that I'm only in the beginning of my way to this charming world.
 
 ## Contacts
