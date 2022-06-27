@@ -1,6 +1,6 @@
 ## Interview
 I really enjoy coding, mainly do it for my pet and study projects, work hard everyday to expand my knowlege.
-I'm also keen on GNU/Linux distros, tiling window managers, various CLI programs and other nerdy stuff.
+I'm also keen on GNU/Linux distros, tiling window managers, various CLI and TUI programs and other nerdy stuff.
 Always happy to try and learn something new.
 
 I speak russian (native), english (~B2) and finnish (~A2).
