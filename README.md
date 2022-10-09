@@ -3,7 +3,7 @@ I really enjoy coding, mainly do it for my pet and study projects, work hard eve
 I'm also keen on GNU/Linux distros, tiling window managers, various CLI and TUI programs and other nerdy stuff.
 Always happy to try and learn something new.
 
-I speak russian (native), english (~B2) and finnish (~A2).
+I speak russian (native), english (~B2) and finnish (~B1).
 
 ## Contacts
 * **Email** (preferred way) — [jieggii@pm.me](mailto:jieggii@pm.me)
