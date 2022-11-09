@@ -6,7 +6,7 @@ Always happy to try and learn something new.
 I speak russian (native), english (~B2) and finnish (~B1).
 
 ## Contacts
-* **Email** (preferred way) — [jieggii@pm.me](mailto:jieggii@pm.me)
+* **Email** (preferred way) — [jieggii@pm.me](mailto:jieggii@protonmail.com)
 * **Telegram** — [@jieggii](https://t.me/jieggii)
 
 ## Profile statistics
