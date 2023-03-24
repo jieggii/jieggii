@@ -3,7 +3,15 @@ I really enjoy coding, mainly do it for my pet and study projects, work hard eve
 I'm also keen on GNU/Linux distros, tiling window managers, various CLI and TUI programs and other nerdy stuff.
 Always happy to try and learn something new.
 
-I speak Russian (native), English (~B2) and Finnish (~B1).
+I speak English (~B2), Finnish (~B1) and Russian (native).
+
+## At that moment I am mostly interested in
+* Backend development (Go and Python)
+* Machine learning
+* GNU/Linux administration
+* Soldering
+
+I am also looking for a job or paid projects, so if I can be useful in anything, do not hesitate to contact me (>w<)
 
 ## Contacts
 * **Email** (preferred way) — [jieggii@protonmail.com](mailto:jieggii@protonmail.com)
