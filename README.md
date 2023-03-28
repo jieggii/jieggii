@@ -7,9 +7,11 @@ I speak English (~B2), Finnish (~B1) and Russian (native).
 
 ## At that moment I am mostly interested in
 * Backend development (Go and Python)
-* Machine learning
+* Electronics and soldering
 * GNU/Linux administration
-* Soldering
+* Machine learning
+
+
 
 I am also looking for a job or paid projects, so if I can be useful in anything, do not hesitate to contact me (>w<)
 
