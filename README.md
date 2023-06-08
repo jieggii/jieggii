@@ -10,6 +10,8 @@ I speak English (~B2), Finnish (~B1) and Russian (native).
 * Electronics and soldering
 * GNU/Linux administration
 * Machine learning
+* Cryptocurrencies
+* Encryption
 
 
 
