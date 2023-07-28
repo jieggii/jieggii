@@ -5,7 +5,7 @@ Always happy to try and learn something new.
 
 I speak English (~B2), Finnish (~B1) and Russian (native).
 
-## At that moment I am mostly interested in
+## At this moment I am mostly interested in
 * Backend development (Go and Python)
 * Electronics and soldering
 * GNU/Linux administration
@@ -13,12 +13,20 @@ I speak English (~B2), Finnish (~B1) and Russian (native).
 * Crypto
 * Cryptography
 
-
-
 I am also looking for a job or paid projects, so if I can be useful in anything, do not hesitate to contact me (>w<)
 
+## My cool and kinda *big* projects
+* [wg-node](https://github.com/jieggii/wg-node) - simple way to run and manage WireGuard node: run in docker container and manage it effortlessly through HTTP REST API
+* [dcfg](https://github.com/jieggii/dcfg) - minimalist tool for copying, storing and distributing your system-wide and user config files
+* [mc.py](https://github.com/jieggii/mc.py) - python package which provides you a simple way to generate phrases using Markov chains
+
+## My cute tiny SMOL projects
+* [mkpp](https://github.com/jieggii/mkpp) - simple tool for creating Python packages (simply creates directories and files)
+* [vktoken](https://github.com/jieggii/vktoken) - tool for granting VK access token
+* [lookupcfg](https://github.com/jieggii/lookupcfg) - golang module which provides simple way for defining and populating configs from any kind of source using lookup function
+
 ## Contacts
-* **Email** (preferred way) — [jieggii@protonmail.com](mailto:jieggii@protonmail.com)
+* **Email** (preferred way of communication) — [jieggii@protonmail.com](mailto:jieggii@protonmail.com)
 * **Telegram** — [@jieggii](https://t.me/jieggii)
 
 ## Profile statistics
