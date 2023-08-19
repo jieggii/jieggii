@@ -16,14 +16,14 @@ I speak English (~B2), Finnish (~B1) and Russian (native).
 I am also looking for a job or paid projects, so if I can be useful in anything, do not hesitate to contact me (>w<)
 
 ## My cool and kinda *big* projects
-* [wg-node](https://github.com/jieggii/wg-node) - simple way to run and manage WireGuard node: run in docker container and manage it effortlessly through HTTP REST API
-* [dcfg](https://github.com/jieggii/dcfg) - minimalist tool for copying, storing and distributing your system-wide and user config files
-* [mc.py](https://github.com/jieggii/mc.py) - python package which provides you a simple way to generate phrases using Markov chains
+* [wg-node](https://github.com/jieggii/wg-node) - simple way to run and manage WireGuard node: run in docker container and manage it effortlessly through HTTP REST API.
+* [dcfg](https://github.com/jieggii/dcfg) - minimalist tool for copying, storing and distributing your system-wide and user config files.
+* [mc.py](https://github.com/jieggii/mc.py) - python package which provides you a simple way to generate phrases using Markov chains.
 
 ## My cute tiny projects
-* [mkpp](https://github.com/jieggii/mkpp) - simple tool for creating Python packages (simply creates directories and files)
-* [vktoken](https://github.com/jieggii/vktoken) - tool for granting VK access token
-* [lookupcfg](https://github.com/jieggii/lookupcfg) - golang module which provides simple way for defining and populating configs from any kind of source using lookup function
+* [mkpp](https://github.com/jieggii/mkpp) - simple tool for creating Python packages (simply creates directories and files).
+* [vktoken](https://github.com/jieggii/vktoken) - tool for granting VK access token.
+* [lookupcfg](https://github.com/jieggii/lookupcfg) - golang module which provides simple way for defining and populating configs from any kind of source using lookup function.
 
 ## Contacts
 * **Email** (preferred way of communication) — [jieggii@protonmail.com](mailto:jieggii@protonmail.com)
