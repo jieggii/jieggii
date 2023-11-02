@@ -26,6 +26,9 @@ A streamlined way to run and manage WireGuard nodes: it runs in a Docker contain
 ### 📂 **[dcfg](https://github.com/jieggii/dcfg)**
 A minimalist tool for copying, storing, and distributing system-wide and user config files.
 
+### 💝 **[kindness-box](https://github.com/jieggii/kindness-box)**
+A VK chatbot designed for the annual "Box of Kindness" event kicking off on [#GivingTuesday](https://www.givingtuesday.org/) and lasting until the New Year. Participants in this initiative select either orphans or individuals with disabilities, purchase desired gifts and present them on New Year's Day.
+
 ### 📝 **[mc.py](https://github.com/jieggii/mc.py)**
 Python package which provides you a simple way to generate phrases using Markov chains.
 
