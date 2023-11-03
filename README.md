@@ -16,7 +16,7 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 
 I'm also actively seeking job opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
 
-## Notable Projects
+## Notable projects
 ### 📉 **[groshi](https://github.com/groshi-project)**
 A finance management tool that includes both a robust backend and multiple clients.
 
