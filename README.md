@@ -21,7 +21,7 @@ I'm also actively seeking job opportunities and paid projects. If you think I ca
 A finance management tool that includes both a robust backend and multiple clients.
 
 ### 🌎 **[wg-node](https://github.com/jieggii/wg-node)**
-A streamlined way to run and manage WireGuard nodes: it runs in a Docker container and is effortlessly managed through an HTTP REST API.
+A simple way to run and manage WireGuard nodes: it runs in a Docker container and is effortlessly managed through an HTTP REST API.
 
 ### 📂 **[dcfg](https://github.com/jieggii/dcfg)**
 A minimalist tool for copying, storing, and distributing system-wide and user config files.
