@@ -13,8 +13,10 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Crypto
 - Cryptography
 - Electronics
-
+ 
 I'm also actively seeking job opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
 ## Notable projects
 ### 📉 **[groshi](https://github.com/groshi-project)**
