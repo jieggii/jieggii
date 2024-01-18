@@ -10,9 +10,9 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Backend development (mostly in Go and Python)
 - GNU/Linux administration
 - Machine learning
+- Electronics & embeded development
 - Crypto
 - Cryptography
-- Electronics
  
 I'm also actively seeking job opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
 
