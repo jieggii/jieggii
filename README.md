@@ -19,6 +19,9 @@ I'm also actively seeking job/internship opportunities and paid projects. If you
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
 ## Notable projects
+### 🎂 **[everlasting-birthday-card](https://github.com/jieggii/everlasting-birthday-card)**
+Literally everlasting birthday card using Arduino. 
+
 ### 📉 **[groshi](https://github.com/groshi-project)**
 A finance management tool that includes both a robust backend and multiple clients.
 
