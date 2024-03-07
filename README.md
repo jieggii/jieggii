@@ -46,5 +46,5 @@ Python package which provides you a simple way to generate phrases using Markov 
 - **[vktoken](https://github.com/jieggii/vktoken)**: A tool for granting VK access tokens.
 
 ## Contact me
-- **Email** (preferred): [egor-turchinovich@protonmail.com](mailto:egor-turchinovich@protonmail.com)
+- **Email** [egor-turchinovich@protonmail.com](mailto:egor-turchinovich@protonmail.com)
 - **Telegram**: [@jieggii](https://t.me/jieggii)
