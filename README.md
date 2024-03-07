@@ -47,4 +47,4 @@ Python package which provides you a simple way to generate phrases using Markov 
 
 ## Contact me
 - **Email** [egor-turchinovich@protonmail.com](mailto:egor-turchinovich@protonmail.com)
-- **Telegram**: [@jieggii](https://t.me/jieggii)
+- **Telegram**: [t.me/jieggii](https://t.me/jieggii)
