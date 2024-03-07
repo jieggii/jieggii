@@ -1,20 +1,23 @@
 # jieggii's profile readme 🐈 
 
-I really enjoy coding, mainly do it for my pet and study projects, work hard everyday to expand my knowlege. I'm also keen on GNU/Linux distros, tiling window managers, various CLI and TUI programs and other nerdy stuff. Always happy to try and learn something new.
+I really enjoy programming and engineering, mainly do it for my pet and study projects, work hard everyday to expand my knowlege. I'm also keen on GNU/Linux distros, tiling window managers, various CLI and TUI programs and other nerdy stuff. Always happy to try and learn something new.
 
 I speak English (~B2), Finnish (~B1) and Russian (native).
 
-## My field of interests
+## I am mostly curious about
 I have a diverse range of interests, and right now, I'm particularly enthusiastic about:
 
 - Backend development (mostly in Go and Python)
-- GNU/Linux administration
+- Algorithms
 - Machine learning
-- Electronics & embeded development
-- Crypto
 - Cryptography
+- Solutions for cryptocurrencies
+- Electronics & embeded development
+- GNU/Linux administration
+
+Yes, in this specific order.
  
-I'm also actively seeking job/internship opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
+> I'm also actively seeking job/internship opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
