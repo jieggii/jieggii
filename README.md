@@ -14,8 +14,6 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Solutions for cryptocurrencies
 - Electronics & embeded development
 - GNU/Linux administration
-
-Yes, in this specific order.
  
 > I'm also actively seeking job/internship opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
 
