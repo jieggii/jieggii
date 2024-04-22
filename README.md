@@ -20,6 +20,9 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
 ## Notable projects
+###  🪙 **[ecbratex](https://github.com/jieggii/ecbratex)**
+Go package for fetching and manipulating exchange rates from the European Central Bank. 
+
 ### 🎂 **[everlasting-birthday-card](https://github.com/jieggii/everlasting-birthday-card)**
 Literally everlasting birthday card using Arduino. 
 
