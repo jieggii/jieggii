@@ -27,7 +27,7 @@ Go package for fetching and manipulating exchange rates from the European Centra
 Literally everlasting birthday card using Arduino. 
 
 ### 📉 **[groshi](https://github.com/groshi-project)**
-A finance management tool that includes both a robust backend and multiple clients.
+A finance management tool that includes both a robust backend and multiple clients (Work in progress).
 
 ### 🌎 **[wg-node](https://github.com/jieggii/wg-node)**
 A simple way to run and manage WireGuard nodes: it runs in a Docker container and is effortlessly managed through an HTTP REST API.
