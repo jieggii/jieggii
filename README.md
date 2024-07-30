@@ -14,8 +14,8 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Solutions for cryptocurrencies
 - Electronics & embeded development
 - GNU/Linux administration
- 
-> I'm also actively seeking job/internship opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
+
+> I'm actively seeking job/internship opportunities and paid projects. If you think I can contribute to your project or team, don't hesitate to reach out! (>w<)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
