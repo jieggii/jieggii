@@ -21,7 +21,7 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 
 ## Notable projects
 ### 📻 **[podcastie](https://github.com/jieggii/podcastie)**
- 📻 Subscribe to your favorite podcasts, share them with friends, and listen to new episodes right within Telegram!
+Subscribe to your favorite podcasts, share them with friends, and listen to new episodes right within Telegram!
 
 ###  🪙 **[ecbratex](https://github.com/jieggii/ecbratex)**
 Go package for fetching and manipulating exchange rates from the European Central Bank. 
