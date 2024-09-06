@@ -45,6 +45,7 @@ A VK chatbot designed for the annual "Box of Kindness" event kicking off on [#Gi
 Python package which provides you a simple way to generate phrases using Markov chains.
 
 ## Tiny yet handy projects
+- **[minicfg](https://github.com/jieggii/minicfg)**: Lightweight and opinionated config library for your Python services. 
 - **[lookupcfg](https://github.com/jieggii/lookupcfg)**: A Go module that provides a simple way to define and populate configs from various sources using a lookup function.
 - **[mkpp](https://github.com/jieggii/mkpp)**: A handy tool for creating Python packages (well, it just creates directories and files).
 - **[vktoken](https://github.com/jieggii/vktoken)**: A tool for granting VK access tokens.
