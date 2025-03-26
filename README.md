@@ -24,7 +24,7 @@ Some of the projects I work(ed) on.
 
 #### Devices:
 - [env-server](https://github.com/jieggii/env-server): air quality in your office back to your control
-- [everlasting-brithday-card](https://github.com/jieggii/everlasting-birthday-card): blow the candle every year on your birthday (POC)
+- [everlasting-brithday-card](https://github.com/jieggii/everlasting-birthday-card): blow out the candle every year on your birthday (POC)
 
 #### Tools:
 - [dcfg](https://github.com/jieggii/dcfg): store your dotfiles in a git repo
