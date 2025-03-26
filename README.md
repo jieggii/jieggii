@@ -10,16 +10,17 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Solutions for cryptocurrencies
 
 ## Project highlights
+Some of the projects I work(ed) on. 
 
 #### Python packages:
 - [mc.py](https://github.com/jieggii/mc.py): generate funny phrases using Markov chains
 - [minicfg](https://github.com/jieggii/minicfg): configure your Python microservices the easy way
 
 #### Go packages:
-- [ebratex](https://github.com/jieggii/ecbratex): convert currencies (you can also travel in time)
+- [ebratex](https://github.com/jieggii/ecbratex): convert currencies (you can also travel in time if you need to)
 
 #### Telegram bots:
-- [podcastie](https://github.com/jieggii/podcastie): follow and listen your favorite podcasts in Telegram
+- [podcastie](https://github.com/jieggii/podcastie): follow and listen to your favorite podcasts in Telegram
 
 #### Devices:
 - [env-server](https://github.com/jieggii/env-server): air quality in your office back to your control
