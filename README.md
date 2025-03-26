@@ -1,3 +1,5 @@
+# Hi there and welcome!
+
 I enjoy building things, breaking things, and figuring out how they work.
 
 I have a diverse range of interests, and right now, I'm particularly enthusiastic about:
@@ -7,7 +9,7 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Cryptography
 - Solutions for cryptocurrencies
 
-## Some of my projects:
+## Project highlights
 
 #### Python packages:
 - [mc.py](https://github.com/jieggii/mc.py): generate funny phrases using Markov chains
