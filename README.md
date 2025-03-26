@@ -1,6 +1,6 @@
 I enjoy building things, breaking things, and figuring out how they work.
 
-I have a diverse range of interests, and right now, I'm particularly enthusiastic about
+I have a diverse range of interests, and right now, I'm particularly enthusiastic about:
 - Backend development (mostly in Go and Python)
 - Machine learning
 - IoT & embedded development
@@ -9,10 +9,7 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
-> [!TIP]
-> I'm actively seeking job/internship opportunities. 
-> If you think I can contribute to your project or team, please feel free to reach out!
-
+## Contacts
 - **Email** [hello@jieggii.xyz](mailto:hello@jieggii.xyz)
 - **Telegram**: [@jieggii](https://jieggii.t.me)
 
