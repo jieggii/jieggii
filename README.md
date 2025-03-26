@@ -5,7 +5,7 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 
 - Backend development (mostly in Go and Python)
 - Machine learning
-- IOT & embedded development
+- IoT & embedded development
 - Cryptography
 - Solutions for cryptocurrencies
 
