@@ -12,4 +12,3 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 ## Contact me
 - **Email** [hello@jieggii.xyz](mailto:hello@jieggii.xyz)
 - **Telegram**: [@jieggii](https://jieggii.t.me)
-
