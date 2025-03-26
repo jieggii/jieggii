@@ -1,7 +1,6 @@
 I enjoy building things, breaking things, and figuring out how they work.
 
-I have a diverse range of interests, and right now, I'm particularly enthusiastic about:
-
+I have a diverse range of interests, and right now, I'm particularly enthusiastic about
 - Backend development (mostly in Go and Python)
 - Machine learning
 - IoT & embedded development
