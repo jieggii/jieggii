@@ -17,7 +17,7 @@ Some of the projects I work(ed) on.
 - [minicfg](https://github.com/jieggii/minicfg): configure your Python microservices the easy way
 
 #### Go packages:
-- [ebratex](https://github.com/jieggii/ecbratex): convert currencies (you can also travel in time if you need to)
+- [ecbratex](https://github.com/jieggii/ecbratex): convert currencies (you can also travel in time if you need to)
 
 #### Telegram bots:
 - [podcastie](https://github.com/jieggii/podcastie): follow and listen to your favorite podcasts in Telegram
