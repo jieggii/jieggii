@@ -13,9 +13,6 @@ I have a diverse range of interests, and right now, I'm particularly enthusiasti
 - Business and enterpreneurship
 - Quantum computing
 
-Freedom is one of the things I value most. 
-I try to use my work to promote the free exchange of information whenever I can.
-
 ## Project highlights
 Some of the projects I work(ed) on. 
 
