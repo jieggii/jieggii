@@ -4,11 +4,14 @@ I enjoy building things, breaking things, and figuring out how they work.
 
 I have a diverse range of interests, and right now, I'm particularly enthusiastic about:
 - Backend development (mostly in Go and Python)
-- Cloud infrastructure & devops
-- IoT & embedded development
+- Software Architecture
+- DevOps and infrastructure
+- IoT & embedded systems
 - Machine learning
-- Cryptography
-- Solutions for cryptocurrencies
+- Cryptography & crypto 
+- Applied mathematics and physics
+- Business and enterpreneurship
+- Quantum computing
 
 ## Project highlights
 Some of the projects I work(ed) on. 
