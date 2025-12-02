@@ -1,4 +1,6 @@
 # Hi there and welcome!
+[![committers.top badge](https://user-badge.committers.top/finland_private/jieggii.svg)](https://user-badge.committers.top/finland_private/jieggii)
+
 
 I enjoy building things, breaking things, and figuring out how they work.
 
