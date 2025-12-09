@@ -28,7 +28,7 @@ pie title I am currently exploring...
 Topics I'm excited about but haven't had time to dig into yet.
 
 ```mermaid
-pie title I am eager to start exploring
+pie title I am eager to start exploring...
     "29% Radioastronomy": 29
     "29% Quantum computing" : 29
     "25% Machine learning" : 25
