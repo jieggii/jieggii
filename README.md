@@ -1,22 +1,45 @@
-# Hi there and welcome!
+# Hi there and welcome to my profile!
 [![committers.top badge](https://user-badge.committers.top/finland_private/jieggii.svg)](https://user-badge.committers.top/finland_private/jieggii)
-
 
 I enjoy building things, breaking things, and figuring out how they work.
 
-I have a diverse range of interests, and right now, I'm particularly enthusiastic about:
-- Backend development (mostly in Go and Python)
-- Software Architecture
-- DevOps and infrastructure
-- IoT & embedded systems
-- Machine learning
-- Cryptography & crypto 
-- Applied mathematics and physics
-- Business and enterpreneurship
-- Quantum computing
+I have a really diverse range of interests, so it's simpler for both me and the reader to have them displayed as a couple of pie charts.
+
+## What I am into right now
+This pie chart shows the topics I'm actively exploring.
+
+```mermaid
+pie title I am currently exploring...
+    "25% Applied math & physics" : 25
+    "20% Cryptography" : 20
+    "15% Business & entrepreneurship" : 15
+    "12% Software architecture" : 12
+    "10% Crypto" : 10
+    "05% Backend developement (mostly Go/Python)" : 5
+    "05% Satellite signal monitoring (amateur)" : 5
+    "05% Embedded systems" : 5
+    "03% DevOps, Deployment and Infra" : 3
+```
+
+> [!NOTE]
+> The percentages reflect my current curiosity level, not my expertise. And of course, they're just rough estimates.
+
+## Topics I'm eager to start exploring
+Topics I'm excited about but haven't had time to dig into yet.
+
+```mermaid
+pie title Current focus snapshot
+    "29% Radioastronomy": 29
+    "29% Quantum computing" : 29
+    "25% Machine learning" : 25
+    "17% Custom mechanical keyboards" : 17
+```
+
+> [!NOTE]
+> Same here - the percentages are just my curiocity level.
 
 ## Project highlights
-Some of the projects I work(ed) on. 
+Some of the projects I work(ed) on.
 
 #### Python packages:
 - [mc.py](https://github.com/jieggii/mc.py): generate funny phrases using Markov chains
@@ -42,5 +65,6 @@ Some of the projects I work(ed) on.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
 ## Contact me
+If you share similar interests and would like to exchange experiences or need help with something, feel free to drop me a message!
 - **Email** [hello@jieggii.xyz](mailto:hello@jieggii.xyz)
 - **Telegram**: [@jieggii](https://jieggii.t.me)
