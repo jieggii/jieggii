@@ -3,7 +3,7 @@
 
 I enjoy building things, breaking things, and figuring out how they work.
 
-I have a really diverse range of interests, so it's simpler for both me and the reader to have them displayed as a couple of pie charts.
+I have a really diverse range of interests, so it's simpler to have them displayed as a couple of pie charts...
 
 ## What I am into right now
 This pie chart shows the topics I'm actively exploring.
