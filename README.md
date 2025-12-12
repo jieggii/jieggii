@@ -6,7 +6,7 @@ I enjoy building things, breaking things, and figuring out how they work.
 I have a really diverse range of interests, so it's simpler to have them displayed as a couple of pie charts...
 
 ## What I am into right now
-This pie chart shows the topics I'm actively exploring.
+This pie chart shows the topics I'm actively exploring
 
 ```mermaid
 pie title I am currently exploring...
@@ -25,7 +25,7 @@ pie title I am currently exploring...
 > The percentages reflect my current curiosity level, not my expertise. And of course, they're just rough estimates.
 
 ## Topics I'm eager to start exploring
-Topics I'm excited about but haven't had time to dig into yet.
+Topics I'm excited about but haven't had time to dig into yet
 
 ```mermaid
 pie title I am eager to start exploring...
