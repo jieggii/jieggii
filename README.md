@@ -65,7 +65,3 @@ Some of the projects I work(ed) on.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieggii&layout=compact)
 
-## Contact me
-If you share similar interests and would like to exchange experiences or need help with something, feel free to drop me a message!
-- **Email** [hello@jieggii.xyz](mailto:hello@jieggii.xyz)
-- **Telegram**: [@jieggii](https://jieggii.t.me)
