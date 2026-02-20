@@ -10,15 +10,16 @@ This pie chart shows the topics I'm actively exploring
 
 ```mermaid
 pie title I am currently exploring...
-    "25% Applied math & physics" : 25
-    "20% Cryptography" : 20
+    "25% Math & Physics" : 25
     "15% Business & entrepreneurship" : 15
+    "15% Astronomy" : 15
     "12% Software architecture" : 12
-    "10% Crypto" : 10
-    "05% Backend developement (mostly Go/Python)" : 5
-    "05% Satellite signal monitoring (amateur)" : 5
+    "10% Backend developement (mostly Go/Python)" : 10
+    "05% Crypto" : 5
+    "05% Satellite signal monitoring" : 5
     "05% Embedded systems" : 5
     "03% DevOps, Deployment and Infra" : 3
+    "05% Cryptography" : 20
 ```
 
 > [!NOTE]
