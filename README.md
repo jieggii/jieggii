@@ -42,6 +42,9 @@ pie title I am eager to start exploring...
 ## Project highlights
 Some of the projects I work(ed) on.
 
+#### SaaS:
+- [TourDeck](https://tourdeck.io): operations and logistics automation for independent tour operators
+
 #### Python packages:
 - [mc.py](https://github.com/jieggii/mc.py): generate funny phrases using Markov chains
 - [minicfg](https://github.com/jieggii/minicfg): configure your Python microservices the easy way
